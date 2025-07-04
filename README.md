@@ -1,4 +1,4 @@
-# Gestione Bollette App
+# Gestione Bollette App (deploy test)
 
 
 Questa applicazione web consente di gestire le spese delle bollette per più case e persone. È progettata per essere accessibile da qualsiasi dispositivo tramite URL, senza necessità di autenticazione.
